@@ -297,3 +297,33 @@ the verification: ~25 minutes ≈ $0.04.
 - **ACA egress IPs removed from the API allowlist** (<ACA_STATIC_IP> and <ACA_EGRESS_IP>
   rules deleted — the streamlit now uses the App Service plan's outbound IPs which are
   already whitelisted).
+
+## Demo corpus and embedding rate limit (2026-11-21)
+
+- **Demo index:** `demo-rag-2026` holds 8 public arXiv papers on retrieval-augmented
+  generation (454 chunks). Generated with `demo/run_demo_traffic.py`; Q&A records and a
+  summary live in `demo/`. Nothing in it is confidential, and all storage SAS links were
+  redacted before committing.
+- **Bug found:** ingesting a 91-chunk paper failed with
+  `429 RateLimitReached` from `text-embedding-3-large` while
+  `commit_assets_to_vector_store` generated embeddings. The deployment had
+  `sku.capacity = 3` (out of a 10,000 GlobalStandard quota). The tenacity retry budget
+  (`TENACITY_STOP_AFTER_DELAY=300`) was exhausted and the unhandled `RetryError` killed
+  `ingest_doc.py` mid-document.
+- **Fix:** raise the embedding deployment capacity to **350**:
+  ```bash
+  az cognitiveservices account deployment create \
+    -g <RG> -n <FOUNDRY_ACCOUNT> \
+    --deployment-name text-embedding-3-large \
+    --model-name text-embedding-3-large --model-version 1 \
+    --model-format OpenAI --sku-name GlobalStandard --sku-capacity 350
+  ```
+  Capacity on GlobalStandard is a rate limit, not a reserved cost; billing stays
+  per-token.
+- **Operational gotcha:** `GET /local_job/{pid}` only checks `psutil.pid_exists(pid)`.
+  After the worker died the PID was reused inside the container, so the endpoint kept
+  returning `running` and a monitoring loop waited for hours. Treat a long-running job
+  with flat Foundry token metrics and flat CPU as dead, not slow.
+- **Measured cost:** ingestion of the 8 papers ≈ $0.87 one-time; demo Q&A ≈ $0.0029 per
+  question (90 questions ≈ $0.26), i.e. ~$0.15/day at 50 questions and ~$0.29/day at 100.
+

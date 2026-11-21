@@ -1,0 +1,452 @@
+[
+  {
+    "arxiv_id": "2005.11401",
+    "title": "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks",
+    "question": "What problem does the paper \"Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks\" address?"
+  },
+  {
+    "arxiv_id": "2005.11401",
+    "title": "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks",
+    "question": "What is the main contribution of the paper \"Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks\"?"
+  },
+  {
+    "arxiv_id": "2005.11401",
+    "title": "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks",
+    "question": "What architecture or method does the paper \"Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks\" propose?"
+  },
+  {
+    "arxiv_id": "2005.11401",
+    "title": "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks",
+    "question": "Which datasets or benchmarks are used in the paper \"Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks\"?"
+  },
+  {
+    "arxiv_id": "2005.11401",
+    "title": "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks",
+    "question": "What are the key experimental results reported in the paper \"Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks\"?"
+  },
+  {
+    "arxiv_id": "2005.11401",
+    "title": "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks",
+    "question": "How does the paper \"Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks\" evaluate retrieval quality?"
+  },
+  {
+    "arxiv_id": "2005.11401",
+    "title": "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks",
+    "question": "What limitations of the approach are discussed in the paper \"Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks\"?"
+  },
+  {
+    "arxiv_id": "2005.11401",
+    "title": "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks",
+    "question": "How does the paper \"Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks\" compare with prior work?"
+  },
+  {
+    "arxiv_id": "2005.11401",
+    "title": "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks",
+    "question": "What training procedure or objective is used in the paper \"Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks\"?"
+  },
+  {
+    "arxiv_id": "2005.11401",
+    "title": "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks",
+    "question": "What future work does the paper \"Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks\" suggest?"
+  },
+  {
+    "arxiv_id": "2312.10997",
+    "title": "Retrieval-Augmented Generation for Large Language Models: A Survey",
+    "question": "What problem does the paper \"Retrieval-Augmented Generation for Large Language Models: A Survey\" address?"
+  },
+  {
+    "arxiv_id": "2312.10997",
+    "title": "Retrieval-Augmented Generation for Large Language Models: A Survey",
+    "question": "What is the main contribution of the paper \"Retrieval-Augmented Generation for Large Language Models: A Survey\"?"
+  },
+  {
+    "arxiv_id": "2312.10997",
+    "title": "Retrieval-Augmented Generation for Large Language Models: A Survey",
+    "question": "What architecture or method does the paper \"Retrieval-Augmented Generation for Large Language Models: A Survey\" propose?"
+  },
+  {
+    "arxiv_id": "2312.10997",
+    "title": "Retrieval-Augmented Generation for Large Language Models: A Survey",
+    "question": "Which datasets or benchmarks are used in the paper \"Retrieval-Augmented Generation for Large Language Models: A Survey\"?"
+  },
+  {
+    "arxiv_id": "2312.10997",
+    "title": "Retrieval-Augmented Generation for Large Language Models: A Survey",
+    "question": "What are the key experimental results reported in the paper \"Retrieval-Augmented Generation for Large Language Models: A Survey\"?"
+  },
+  {
+    "arxiv_id": "2312.10997",
+    "title": "Retrieval-Augmented Generation for Large Language Models: A Survey",
+    "question": "How does the paper \"Retrieval-Augmented Generation for Large Language Models: A Survey\" evaluate retrieval quality?"
+  },
+  {
+    "arxiv_id": "2312.10997",
+    "title": "Retrieval-Augmented Generation for Large Language Models: A Survey",
+    "question": "What limitations of the approach are discussed in the paper \"Retrieval-Augmented Generation for Large Language Models: A Survey\"?"
+  },
+  {
+    "arxiv_id": "2312.10997",
+    "title": "Retrieval-Augmented Generation for Large Language Models: A Survey",
+    "question": "How does the paper \"Retrieval-Augmented Generation for Large Language Models: A Survey\" compare with prior work?"
+  },
+  {
+    "arxiv_id": "2312.10997",
+    "title": "Retrieval-Augmented Generation for Large Language Models: A Survey",
+    "question": "What training procedure or objective is used in the paper \"Retrieval-Augmented Generation for Large Language Models: A Survey\"?"
+  },
+  {
+    "arxiv_id": "2312.10997",
+    "title": "Retrieval-Augmented Generation for Large Language Models: A Survey",
+    "question": "What future work does the paper \"Retrieval-Augmented Generation for Large Language Models: A Survey\" suggest?"
+  },
+  {
+    "arxiv_id": "2112.04426",
+    "title": "Improving language models by retrieving from trillions of tokens",
+    "question": "What problem does the paper \"Improving language models by retrieving from trillions of tokens\" address?"
+  },
+  {
+    "arxiv_id": "2112.04426",
+    "title": "Improving language models by retrieving from trillions of tokens",
+    "question": "What is the main contribution of the paper \"Improving language models by retrieving from trillions of tokens\"?"
+  },
+  {
+    "arxiv_id": "2112.04426",
+    "title": "Improving language models by retrieving from trillions of tokens",
+    "question": "What architecture or method does the paper \"Improving language models by retrieving from trillions of tokens\" propose?"
+  },
+  {
+    "arxiv_id": "2112.04426",
+    "title": "Improving language models by retrieving from trillions of tokens",
+    "question": "Which datasets or benchmarks are used in the paper \"Improving language models by retrieving from trillions of tokens\"?"
+  },
+  {
+    "arxiv_id": "2112.04426",
+    "title": "Improving language models by retrieving from trillions of tokens",
+    "question": "What are the key experimental results reported in the paper \"Improving language models by retrieving from trillions of tokens\"?"
+  },
+  {
+    "arxiv_id": "2112.04426",
+    "title": "Improving language models by retrieving from trillions of tokens",
+    "question": "How does the paper \"Improving language models by retrieving from trillions of tokens\" evaluate retrieval quality?"
+  },
+  {
+    "arxiv_id": "2112.04426",
+    "title": "Improving language models by retrieving from trillions of tokens",
+    "question": "What limitations of the approach are discussed in the paper \"Improving language models by retrieving from trillions of tokens\"?"
+  },
+  {
+    "arxiv_id": "2112.04426",
+    "title": "Improving language models by retrieving from trillions of tokens",
+    "question": "How does the paper \"Improving language models by retrieving from trillions of tokens\" compare with prior work?"
+  },
+  {
+    "arxiv_id": "2112.04426",
+    "title": "Improving language models by retrieving from trillions of tokens",
+    "question": "What training procedure or objective is used in the paper \"Improving language models by retrieving from trillions of tokens\"?"
+  },
+  {
+    "arxiv_id": "2112.04426",
+    "title": "Improving language models by retrieving from trillions of tokens",
+    "question": "What future work does the paper \"Improving language models by retrieving from trillions of tokens\" suggest?"
+  },
+  {
+    "arxiv_id": "2208.03299",
+    "title": "Atlas: Few-shot Learning with Retrieval Augmented Language Models",
+    "question": "What problem does the paper \"Atlas: Few-shot Learning with Retrieval Augmented Language Models\" address?"
+  },
+  {
+    "arxiv_id": "2208.03299",
+    "title": "Atlas: Few-shot Learning with Retrieval Augmented Language Models",
+    "question": "What is the main contribution of the paper \"Atlas: Few-shot Learning with Retrieval Augmented Language Models\"?"
+  },
+  {
+    "arxiv_id": "2208.03299",
+    "title": "Atlas: Few-shot Learning with Retrieval Augmented Language Models",
+    "question": "What architecture or method does the paper \"Atlas: Few-shot Learning with Retrieval Augmented Language Models\" propose?"
+  },
+  {
+    "arxiv_id": "2208.03299",
+    "title": "Atlas: Few-shot Learning with Retrieval Augmented Language Models",
+    "question": "Which datasets or benchmarks are used in the paper \"Atlas: Few-shot Learning with Retrieval Augmented Language Models\"?"
+  },
+  {
+    "arxiv_id": "2208.03299",
+    "title": "Atlas: Few-shot Learning with Retrieval Augmented Language Models",
+    "question": "What are the key experimental results reported in the paper \"Atlas: Few-shot Learning with Retrieval Augmented Language Models\"?"
+  },
+  {
+    "arxiv_id": "2208.03299",
+    "title": "Atlas: Few-shot Learning with Retrieval Augmented Language Models",
+    "question": "How does the paper \"Atlas: Few-shot Learning with Retrieval Augmented Language Models\" evaluate retrieval quality?"
+  },
+  {
+    "arxiv_id": "2208.03299",
+    "title": "Atlas: Few-shot Learning with Retrieval Augmented Language Models",
+    "question": "What limitations of the approach are discussed in the paper \"Atlas: Few-shot Learning with Retrieval Augmented Language Models\"?"
+  },
+  {
+    "arxiv_id": "2208.03299",
+    "title": "Atlas: Few-shot Learning with Retrieval Augmented Language Models",
+    "question": "How does the paper \"Atlas: Few-shot Learning with Retrieval Augmented Language Models\" compare with prior work?"
+  },
+  {
+    "arxiv_id": "2208.03299",
+    "title": "Atlas: Few-shot Learning with Retrieval Augmented Language Models",
+    "question": "What training procedure or objective is used in the paper \"Atlas: Few-shot Learning with Retrieval Augmented Language Models\"?"
+  },
+  {
+    "arxiv_id": "2208.03299",
+    "title": "Atlas: Few-shot Learning with Retrieval Augmented Language Models",
+    "question": "What future work does the paper \"Atlas: Few-shot Learning with Retrieval Augmented Language Models\" suggest?"
+  },
+  {
+    "arxiv_id": "2211.12561",
+    "title": "Retrieval-Augmented Multimodal Language Modeling",
+    "question": "What problem does the paper \"Retrieval-Augmented Multimodal Language Modeling\" address?"
+  },
+  {
+    "arxiv_id": "2211.12561",
+    "title": "Retrieval-Augmented Multimodal Language Modeling",
+    "question": "What is the main contribution of the paper \"Retrieval-Augmented Multimodal Language Modeling\"?"
+  },
+  {
+    "arxiv_id": "2211.12561",
+    "title": "Retrieval-Augmented Multimodal Language Modeling",
+    "question": "What architecture or method does the paper \"Retrieval-Augmented Multimodal Language Modeling\" propose?"
+  },
+  {
+    "arxiv_id": "2211.12561",
+    "title": "Retrieval-Augmented Multimodal Language Modeling",
+    "question": "Which datasets or benchmarks are used in the paper \"Retrieval-Augmented Multimodal Language Modeling\"?"
+  },
+  {
+    "arxiv_id": "2211.12561",
+    "title": "Retrieval-Augmented Multimodal Language Modeling",
+    "question": "What are the key experimental results reported in the paper \"Retrieval-Augmented Multimodal Language Modeling\"?"
+  },
+  {
+    "arxiv_id": "2211.12561",
+    "title": "Retrieval-Augmented Multimodal Language Modeling",
+    "question": "How does the paper \"Retrieval-Augmented Multimodal Language Modeling\" evaluate retrieval quality?"
+  },
+  {
+    "arxiv_id": "2211.12561",
+    "title": "Retrieval-Augmented Multimodal Language Modeling",
+    "question": "What limitations of the approach are discussed in the paper \"Retrieval-Augmented Multimodal Language Modeling\"?"
+  },
+  {
+    "arxiv_id": "2211.12561",
+    "title": "Retrieval-Augmented Multimodal Language Modeling",
+    "question": "How does the paper \"Retrieval-Augmented Multimodal Language Modeling\" compare with prior work?"
+  },
+  {
+    "arxiv_id": "2211.12561",
+    "title": "Retrieval-Augmented Multimodal Language Modeling",
+    "question": "What training procedure or objective is used in the paper \"Retrieval-Augmented Multimodal Language Modeling\"?"
+  },
+  {
+    "arxiv_id": "2211.12561",
+    "title": "Retrieval-Augmented Multimodal Language Modeling",
+    "question": "What future work does the paper \"Retrieval-Augmented Multimodal Language Modeling\" suggest?"
+  },
+  {
+    "arxiv_id": "2310.11511",
+    "title": "Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection",
+    "question": "What problem does the paper \"Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection\" address?"
+  },
+  {
+    "arxiv_id": "2310.11511",
+    "title": "Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection",
+    "question": "What is the main contribution of the paper \"Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection\"?"
+  },
+  {
+    "arxiv_id": "2310.11511",
+    "title": "Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection",
+    "question": "What architecture or method does the paper \"Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection\" propose?"
+  },
+  {
+    "arxiv_id": "2310.11511",
+    "title": "Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection",
+    "question": "Which datasets or benchmarks are used in the paper \"Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection\"?"
+  },
+  {
+    "arxiv_id": "2310.11511",
+    "title": "Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection",
+    "question": "What are the key experimental results reported in the paper \"Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection\"?"
+  },
+  {
+    "arxiv_id": "2310.11511",
+    "title": "Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection",
+    "question": "How does the paper \"Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection\" evaluate retrieval quality?"
+  },
+  {
+    "arxiv_id": "2310.11511",
+    "title": "Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection",
+    "question": "What limitations of the approach are discussed in the paper \"Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection\"?"
+  },
+  {
+    "arxiv_id": "2310.11511",
+    "title": "Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection",
+    "question": "How does the paper \"Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection\" compare with prior work?"
+  },
+  {
+    "arxiv_id": "2310.11511",
+    "title": "Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection",
+    "question": "What training procedure or objective is used in the paper \"Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection\"?"
+  },
+  {
+    "arxiv_id": "2310.11511",
+    "title": "Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection",
+    "question": "What future work does the paper \"Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection\" suggest?"
+  },
+  {
+    "arxiv_id": "2404.16130",
+    "title": "From Local to Global: A Graph RAG Approach to Query-Focused Summarization",
+    "question": "What problem does the paper \"From Local to Global: A Graph RAG Approach to Query-Focused Summarization\" address?"
+  },
+  {
+    "arxiv_id": "2404.16130",
+    "title": "From Local to Global: A Graph RAG Approach to Query-Focused Summarization",
+    "question": "What is the main contribution of the paper \"From Local to Global: A Graph RAG Approach to Query-Focused Summarization\"?"
+  },
+  {
+    "arxiv_id": "2404.16130",
+    "title": "From Local to Global: A Graph RAG Approach to Query-Focused Summarization",
+    "question": "What architecture or method does the paper \"From Local to Global: A Graph RAG Approach to Query-Focused Summarization\" propose?"
+  },
+  {
+    "arxiv_id": "2404.16130",
+    "title": "From Local to Global: A Graph RAG Approach to Query-Focused Summarization",
+    "question": "Which datasets or benchmarks are used in the paper \"From Local to Global: A Graph RAG Approach to Query-Focused Summarization\"?"
+  },
+  {
+    "arxiv_id": "2404.16130",
+    "title": "From Local to Global: A Graph RAG Approach to Query-Focused Summarization",
+    "question": "What are the key experimental results reported in the paper \"From Local to Global: A Graph RAG Approach to Query-Focused Summarization\"?"
+  },
+  {
+    "arxiv_id": "2404.16130",
+    "title": "From Local to Global: A Graph RAG Approach to Query-Focused Summarization",
+    "question": "How does the paper \"From Local to Global: A Graph RAG Approach to Query-Focused Summarization\" evaluate retrieval quality?"
+  },
+  {
+    "arxiv_id": "2404.16130",
+    "title": "From Local to Global: A Graph RAG Approach to Query-Focused Summarization",
+    "question": "What limitations of the approach are discussed in the paper \"From Local to Global: A Graph RAG Approach to Query-Focused Summarization\"?"
+  },
+  {
+    "arxiv_id": "2404.16130",
+    "title": "From Local to Global: A Graph RAG Approach to Query-Focused Summarization",
+    "question": "How does the paper \"From Local to Global: A Graph RAG Approach to Query-Focused Summarization\" compare with prior work?"
+  },
+  {
+    "arxiv_id": "2404.16130",
+    "title": "From Local to Global: A Graph RAG Approach to Query-Focused Summarization",
+    "question": "What training procedure or objective is used in the paper \"From Local to Global: A Graph RAG Approach to Query-Focused Summarization\"?"
+  },
+  {
+    "arxiv_id": "2404.16130",
+    "title": "From Local to Global: A Graph RAG Approach to Query-Focused Summarization",
+    "question": "What future work does the paper \"From Local to Global: A Graph RAG Approach to Query-Focused Summarization\" suggest?"
+  },
+  {
+    "arxiv_id": "2401.15884",
+    "title": "Corrective Retrieval Augmented Generation",
+    "question": "What problem does the paper \"Corrective Retrieval Augmented Generation\" address?"
+  },
+  {
+    "arxiv_id": "2401.15884",
+    "title": "Corrective Retrieval Augmented Generation",
+    "question": "What is the main contribution of the paper \"Corrective Retrieval Augmented Generation\"?"
+  },
+  {
+    "arxiv_id": "2401.15884",
+    "title": "Corrective Retrieval Augmented Generation",
+    "question": "What architecture or method does the paper \"Corrective Retrieval Augmented Generation\" propose?"
+  },
+  {
+    "arxiv_id": "2401.15884",
+    "title": "Corrective Retrieval Augmented Generation",
+    "question": "Which datasets or benchmarks are used in the paper \"Corrective Retrieval Augmented Generation\"?"
+  },
+  {
+    "arxiv_id": "2401.15884",
+    "title": "Corrective Retrieval Augmented Generation",
+    "question": "What are the key experimental results reported in the paper \"Corrective Retrieval Augmented Generation\"?"
+  },
+  {
+    "arxiv_id": "2401.15884",
+    "title": "Corrective Retrieval Augmented Generation",
+    "question": "How does the paper \"Corrective Retrieval Augmented Generation\" evaluate retrieval quality?"
+  },
+  {
+    "arxiv_id": "2401.15884",
+    "title": "Corrective Retrieval Augmented Generation",
+    "question": "What limitations of the approach are discussed in the paper \"Corrective Retrieval Augmented Generation\"?"
+  },
+  {
+    "arxiv_id": "2401.15884",
+    "title": "Corrective Retrieval Augmented Generation",
+    "question": "How does the paper \"Corrective Retrieval Augmented Generation\" compare with prior work?"
+  },
+  {
+    "arxiv_id": "2401.15884",
+    "title": "Corrective Retrieval Augmented Generation",
+    "question": "What training procedure or objective is used in the paper \"Corrective Retrieval Augmented Generation\"?"
+  },
+  {
+    "arxiv_id": "2401.15884",
+    "title": "Corrective Retrieval Augmented Generation",
+    "question": "What future work does the paper \"Corrective Retrieval Augmented Generation\" suggest?"
+  },
+  {
+    "arxiv_id": "cross",
+    "title": "cross-paper",
+    "question": "Compare RAG and RETRO in terms of retrieval granularity and how retrieved evidence is used."
+  },
+  {
+    "arxiv_id": "cross",
+    "title": "cross-paper",
+    "question": "How do Self-RAG and Corrective RAG differ in deciding when to retrieve or correct?"
+  },
+  {
+    "arxiv_id": "cross",
+    "title": "cross-paper",
+    "question": "What role does document retrieval play in multimodal language modeling?"
+  },
+  {
+    "arxiv_id": "cross",
+    "title": "cross-paper",
+    "question": "Which of these papers train the retriever and generator end to end?"
+  },
+  {
+    "arxiv_id": "cross",
+    "title": "cross-paper",
+    "question": "What evaluation datasets are commonly used across these retrieval-augmented generation papers?"
+  },
+  {
+    "arxiv_id": "cross",
+    "title": "cross-paper",
+    "question": "Summarize the main categories of retrieval-augmented generation described in the RAG survey."
+  },
+  {
+    "arxiv_id": "cross",
+    "title": "cross-paper",
+    "question": "How does Graph RAG handle global, query-focused summarization questions?"
+  },
+  {
+    "arxiv_id": "cross",
+    "title": "cross-paper",
+    "question": "What are the main failure modes of retrieval-augmented generation reported in these papers?"
+  },
+  {
+    "arxiv_id": "cross",
+    "title": "cross-paper",
+    "question": "How do these papers attempt to reduce hallucination?"
+  },
+  {
+    "arxiv_id": "cross",
+    "title": "cross-paper",
+    "question": "What are the trade-offs between retrieval latency, context length, and answer quality?"
+  }
+]
